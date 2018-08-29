@@ -1,8 +1,8 @@
 ## Gala Connect
+[国外苹果ID注册教程](https://wangejiba.com/342.html)
+[国外苹果ID注册教程](https://wangejiba.com/342.html)
 
-                    [国外苹果ID注册教程](https://wangejiba.com/342.html)
-                    [国外苹果ID注册教程](https://wangejiba.com/486.html)
-                    IOS 用户需要删除国内账号的版本，才能安装海外账号的版本
+IOS 用户需要删除国内账号的版本，才能安装海外账号的版本
              
 
 ### Markdown
