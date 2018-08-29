@@ -1,5 +1,6 @@
 ## Gala Connect
 [IOS下载](https://itunes.apple.com/us/app/gala-connect/id1275406021?ls=1&mt=8)
+
 [Android下载](https://github.com/galaconnect/android/raw/master/app.apk)
 
 [国外苹果ID注册教程](https://wangejiba.com/342.html)
