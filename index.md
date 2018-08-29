@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Gala Connect
 
-You can use the [editor on GitHub](https://github.com/galaconnect/galaconnect.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+                    [国外苹果ID注册教程](https://wangejiba.com/342.html)
+                    [国外苹果ID注册教程](https://wangejiba.com/486.html)
+                    IOS 用户需要删除国内账号的版本，才能安装海外账号的版本
+             
 
 ### Markdown
 
